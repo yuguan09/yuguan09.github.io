@@ -8,7 +8,6 @@ categories: physics
   詳細は省きますが、まず一次元のシュレーディンガー方程式から見ます．
 
 \begin{equation}
-\tag{1}
  \frac{i\hbar\partial\psi}{\partial t} = -\frac{\hbar^2}{2m}\nabla^2\psi+V(x)\psi 
 \end{equation}
 
