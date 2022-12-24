@@ -31,3 +31,7 @@ ABL原論文輪読
 ### 2022-12-22
 
 論文Retrocausality at no extra costの3.2節 The bilking argument
+
+### 2022-12-24
+
+研究の方向についての考え
